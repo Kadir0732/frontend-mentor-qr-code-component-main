@@ -17,8 +17,7 @@ html,body{
 .card{
     width: 90%;
     max-width: 280px;
-    height: 65%;
-    min-height: 460px;
+    aspect-ratio: 2/1.5;
     background-color: #fff;
     padding: 16px;
     border-radius: 16px;
